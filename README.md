@@ -10,6 +10,8 @@
 * [Полная версия книги](https://github.com/nyakovchuk/seminary-study-book/raw/master/ebook/pdf/Как-я-учился-в-семинарии-full-version.pdf)
 * [Сокращённый вариант книги (содержит только историю написания работ)](https://github.com/nyakovchuk/seminary-study-book/raw/master/ebook/pdf/Как-я-учился-в-семинарии-cut-version.pdf)
 
+Книга на [books.google.com](https://books.google.com.ua/books?id=MaX8DwAAQBAJ&printsec=frontcover&hl=ru)
+
 ## Содержание
 
 * [Благодарности](#thanks)
